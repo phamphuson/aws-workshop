@@ -8,17 +8,17 @@ chapter: false
 # Internship Report
 
 ### Student Information:
-&emsp; **Full Name:** Le Hoang Thanh Phu
+&emsp; **Full Name:** Pham Phu Son
 
-&emsp; **Phone Number:** 0938477136
+&emsp; **Phone Number:** 
 
-&emsp; **Email:** thanhphu3082k3@gmail.com
+&emsp; **Email:** son.phamtk654123@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology (HUTECH)
 
-&emsp; **Major:** Cybersecurity
+&emsp; **Major:** 
 
-&emsp; **Class:** 22DTHB6
+&emsp; **Class:** 
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Company Limited
 

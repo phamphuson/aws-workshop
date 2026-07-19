@@ -8,17 +8,17 @@ chapter: false
 # Báo cáo thực tập
 
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Lê Hoàng Thanh Phú
+&emsp; **Họ và tên:** Phạm Phú Sơn
 
-&emsp; **Số điện thoại:** 0938477136
+&emsp; **Số điện thoại:** 
 
-&emsp; **Email:** thanhphu3082k3@gmail.com
+&emsp; **Email:** son.phamtk654123@gmail.com
 
 &emsp; **Trường:** Đại học Công nghệ TP.HCM (HUTECH)
 
-&emsp; **Ngành:** An ninh mạng
+&emsp; **Ngành:** 
 
-&emsp; **Lớp:** 22DTHB6
+&emsp; **Lớp:** 
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 
