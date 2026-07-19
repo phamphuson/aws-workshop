@@ -10,15 +10,15 @@ chapter: false
 ### Thông tin sinh viên:
 &emsp; **Họ và tên:** Phạm Phú Sơn
 
-&emsp; **Số điện thoại:** 
+&emsp; **Số điện thoại:** 0339801711
 
 &emsp; **Email:** son.phamtk654123@gmail.com
 
 &emsp; **Trường:** Đại học Công nghệ TP.HCM (HUTECH)
 
-&emsp; **Ngành:** 
+&emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** 
+&emsp; **Lớp:** 22DTHB6
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 

@@ -10,15 +10,15 @@ chapter: false
 ### Student Information:
 &emsp; **Full Name:** Pham Phu Son
 
-&emsp; **Phone Number:** 
+&emsp; **Phone Number:** 0339801711
 
 &emsp; **Email:** son.phamtk654123@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology (HUTECH)
 
-&emsp; **Major:** 
+&emsp; **Major:** Information Technology
 
-&emsp; **Class:** 
+&emsp; **Class:** 22DTHB6
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Company Limited
 
