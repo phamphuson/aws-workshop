@@ -29,6 +29,6 @@ Tại chương trình **First Cloud AI Journey (Workforce Bootcamp)**, em đã t
 
 ### Định hướng cải thiện và Phát triển bản thân
 
-* **Tối ưu hóa tính kỷ luật và Quản lý thời gian:** Cần rèn luyện phương pháp quản trị thời gian khoa học hơn để cân bằng hiệu quả giữa tiến độ nghiên cứu dự án dày đặc của Bootcamp và các nhiệm vụ học tập song song tại trường HUTECH, đảm bảo tính đồng bộ và nghiêm túc tối đa đối với các deadline hệ thống.
-* **Nâng cao tư duy giải quyết vấn đề chuyên sâu:** Tiếp tục đào sâu nghiên cứu các lỗ hổng nâng cao tầng trình duyệt và các ma trận phòng thủ Zero-Trust nhằm đưa ra các giải pháp xử lý sự cố an ninh mạng có tính bao quát và tự động hóa cao hơn.
-* **Trau dồi năng lực giao tiếp kỹ thuật:** Tích cực rèn luyện khả năng diễn đạt các kiến thức kiến trúc Cloud Security phức tạp bằng thuật ngữ tiếng Anh chuyên ngành một cách cô đọng, sắc bén, giúp tăng tính thuyết phục khi báo cáo trước các hội đồng công nghệ quốc tế.
+* **Tối ưu hóa kỹ năng quản lý thời gian & tiến độ:** Thiết lập quy trình làm việc khoa học hơn để cân bằng hài hòa giữa tiến độ nghiên cứu chuyên sâu của Bootcamp và kế hoạch học tập tại trường HUTECH, đảm bảo hoàn thành xuất sắc các cột mốc deadline.
+* **Nâng cao tư duy giải quyết vấn đề kỹ thuật:** Tiếp tục mở rộng nghiên cứu về kiến trúc Zero-Trust, các kỹ thuật phòng thủ nâng cao trên nền tảng Điện toán đám mây và AI để xây dựng các giải pháp an toàn thông tin có độ tin cậy cao.
+* **Mở rộng vốn tiếng Anh chuyên ngành & Giao tiếp:** Chủ động trau dồi khả năng truyền đạt các giải pháp công nghệ phức tạp bằng tiếng Anh, giúp nâng cao sự tự tin và tính chuyên nghiệp khi làm việc trong môi trường quốc tế.

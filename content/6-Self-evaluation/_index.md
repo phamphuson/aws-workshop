@@ -27,8 +27,8 @@ To objectively reflect upon my engineering growth during this period, I evaluate
 | 11 | **Contribution to project/team** | Delivery of core operational modules to the PhishShield monorepo, recognized by peers for high code execution. | ✅ | ☐ | ☐ |
 | 12 | **Overall** | Comprehensive evaluation of personal and professional adaptation throughout the intensive hands-on bootcamp. | ✅ | ☐ | ☐ |
 
-### Areas for Continuous Improvement
+### Personal Development & Improvement Plan
 
-* **Optimize Discipline and Time Management:** Refine personal workflow structures to better balance the demanding capstone engineering deliverables of the AWS bootcamp alongside academic responsibilities at HUTECH, ensuring full compliance with enterprise-level schedules and deadlines.
-* **Deepen Advanced Problem-Solving Architecture:** Continue researching sophisticated browser-level attack vectors and Zero-Trust mitigation matrices to implement automated security solutions that encompass wider system failure modes.
-* **Enhance Technical Communication Precision:** Actively practice translating intricate Cloud Security concepts into sharp, business-oriented English, maximizing impact and clarity when presenting to global engineering panels and stakeholders.
+* **Optimize Time Management & Workflow:** Establish a structured personal schedule to seamlessly balance demanding bootcamp research deliverables with academic obligations at HUTECH, ensuring high-quality execution across all deadlines.
+* **Deepen Technical Problem-Solving Skills:** Continue exploring Zero-Trust architectures and modern Cloud/AI security paradigms to build scalable, automated defense solutions for complex enterprise environments.
+* **Enhance Technical Communication & Language Agility:** Actively refine English proficiency and technical presentation skills to clearly articulate sophisticated security architectures in international professional settings.
