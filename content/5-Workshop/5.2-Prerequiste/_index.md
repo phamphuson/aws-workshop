@@ -1,7 +1,7 @@
 ---
 title: "Solution Architecture"
 date: 2026-07-05
-weight: 3
+weight: 2
 chapter: false
 pre: " <b> 5.2. </b> "
 ---
